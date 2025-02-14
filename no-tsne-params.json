@@ -1,0 +1,1 @@
+{"rf": {"max_depth": null, "min_samples_leaf": 2, "min_samples_split": 5, "n_estimators": 100}, "svm": {"C": 0.1, "degree": 2, "gamma": "scale", "kernel": "linear", "max_iter": 1000}, "lr": {"C": 1, "solver": "liblinear"}}
